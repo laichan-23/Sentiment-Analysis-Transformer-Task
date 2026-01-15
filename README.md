@@ -32,8 +32,10 @@ Proyek ini mengikuti tahapan standar pemrosesan bahasa alami (NLP):
 ---
 
 ## 📊 Hasil Visualisasi
-![Visualisasi Sentimen]
+
 (<img width="699" height="552" alt="image" src="https://github.com/user-attachments/assets/8e6fd671-2f72-42d5-b339-cbbd62b834e7" />)
+
+
 *Grafik di atas menunjukkan distribusi hasil pelabelan otomatis model terhadap 400 data pengujian.*
 
 ---
