@@ -4,8 +4,8 @@ Tugas ini merupakan implementasi pelabelan sentimen otomatis menggunakan arsitek
 
 ## 👥 Anggota Kelompok
 **Kelas: TI-KIP-P3**
-1. **Laelatul Badriyah** - NIM: 41236732
-2. **Putri Pirna** - NIM: 41236773
+1. **Laelatul Badriyah**_41236732
+2. **Putri Pirna**_41236773
 
 ---
 
